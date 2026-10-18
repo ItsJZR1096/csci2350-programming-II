@@ -1,5 +1,5 @@
 // CSCI 2350 - Assignment 2 - Task C
-// Name: TODO
+// Name: Jordan Rose
 // R number: TODO
 #include <iostream>
 
